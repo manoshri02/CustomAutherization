@@ -16,6 +16,7 @@ spring:
           jwk-set-uri: http://localhost:9000/oauth2/jwks
           issuer-uri: http://localhost:9000
 
+
   jpa:
     properties:
       hibernate:
