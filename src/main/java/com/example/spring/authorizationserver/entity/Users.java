@@ -2,6 +2,7 @@ package com.example.spring.authorizationserver.entity;
 
 
 
+
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
